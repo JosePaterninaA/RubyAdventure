@@ -58,3 +58,50 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+.autogit/logs/
+.github/classroom/log.txt
+
+Assets/Art/Sprites/Characters/JambiSheet.png
+Assets/Art/Sprites/Characters/MrClockworkSheet.png
+Assets/Art/Sprites/Characters/RubySheet.png
+Assets/Art/Sprites/Environmnent/Damageable.png
+Assets/Art/Sprites/Environmnent/DrainCover.png
+Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png
+Assets/Art/Sprites/Environmnent/FloorBricksToGrassSquare.png
+Assets/Art/Sprites/Environmnent/FloorGrassToBricksCorner.png
+Assets/Art/Sprites/Environmnent/FloorGrassToBricksSquare.png
+Assets/Art/Sprites/Environmnent/FloorWaterRoundCorners.png
+Assets/Art/Sprites/Environmnent/FloorWaterSquareCorners.png
+Assets/Art/Sprites/Environmnent/GrassSmall.png
+Assets/Art/Sprites/Environmnent/House.png
+Assets/Art/Sprites/Environmnent/LotusFlower.png
+Assets/Art/Sprites/Environmnent/MetalCube.png
+Assets/Art/Sprites/Environmnent/Mushrooms.png
+Assets/Art/Sprites/Environmnent/TelegraphPost.png
+Assets/Art/Sprites/Environmnent/TreeBig1.png
+Assets/Art/Sprites/Environmnent/TreeBig2.png
+Assets/Art/Sprites/Environmnent/TreeBig3.png
+Assets/Art/Sprites/Environmnent/TreeForeground.png
+Assets/Art/Sprites/Environmnent/TreeLittle.png
+Assets/Art/Sprites/Environmnent/TreeShadow.png
+Assets/Art/Sprites/UI/CharacterPortrait.png
+Assets/Art/Sprites/UI/NPCPortrait.png
+Assets/Art/Sprites/UI/UIBulletIcon.png
+Assets/Art/Sprites/UI/UIDialogueBox.png
+Assets/Art/Sprites/UI/UIHealthBar.png
+Assets/Art/Sprites/UI/UIHealthFrame.png
+Assets/Art/Sprites/VFX/CogBullet.png
+Assets/Art/Sprites/VFX/CollectibleAmmo.png
+Assets/Art/Sprites/VFX/CollectibleHealth.png
+Assets/Art/Sprites/VFX/ParticleSpriteAtlas.png
+Assets/Art/Sprites/VFX/Shadow.png
+Assets/Audio/2D MUSIC LOOP.wav
+Assets/Audio/Collectable.wav
+Assets/Audio/Footsteps2a.wav
+Assets/Audio/Hit for enemy 1.wav
+Assets/Audio/Hit for enemy 2.wav
+Assets/Audio/Player Hit.wav
+Assets/Audio/Quest Complete.wav
+Assets/Audio/Robot Fixed.wav
+Assets/Audio/Robot Walking_Broken.wav
+Assets/Audio/Throw Cog.wav
